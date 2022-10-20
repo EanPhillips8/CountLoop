@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faa356be-7f64-4464-8e7a-f06aeece8fc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CtoF_Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nest2.java" afterDir="false" />
-    </list>
+    <list default="true" id="faa356be-7f64-4464-8e7a-f06aeece8fc7" name="Changes" comment="asd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,8 +50,16 @@
       <updated>1665074928150</updated>
       <workItem from="1665074929477" duration="7357000" />
       <workItem from="1666033337207" duration="676000" />
-      <workItem from="1666225806914" duration="3227000" />
+      <workItem from="1666225806914" duration="3514000" />
     </task>
+    <task id="LOCAL-00001" summary="aef">
+      <created>1666229184641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666229184641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aef" />
+    <option name="LAST_COMMIT_MESSAGE" value="aef" />
   </component>
 </project>
